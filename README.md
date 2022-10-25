@@ -1,26 +1,13 @@
-### Hi there 👋
+# Hello there 💫
 
-<!--
-**0bmonk3y/0bmonk3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔹 Working on the next level🔹<br>🔹Learning C# Fundamentals in [SoftUni](https://softuni.bg/)🔹Fun fact: Every 3 seconds of delay between a flash to thunder, equates to a distance of 1 kilometre🔹
+🔹 Working on the next level🔹
+🔹Learning C# Fundamentals in [SoftUni](https://softuni.bg/)
+🔹Fun fact: Every 3 seconds of delay between a flash to thunder, equates to a distance of 1 kilometre🔹
 
 ![sultan-alrefaei-programmer](https://user-images.githubusercontent.com/92588334/175947310-d3457489-4deb-4437-80a5-9cc1cee198d2.gif)
 
 ## 🌐 Socials:
-[![Instagram](https://i.pinimg.com/564x/6d/40/35/6d40355cbc1838e4d641e8f35ccaeaa1.jpg)](https://www.instagram.com/oblivious.monkey/)
+[![Instagram](https://images.getpng.net/uploads/preview/pack-brushstrokes-banner-with-social-media-icons6-1151638294917rlybbgu3rh.webp/)](https://www.instagram.com/oblivious.monkey/)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
