@@ -7,7 +7,7 @@
 ![sultan-alrefaei-programmer](https://user-images.githubusercontent.com/92588334/175947310-d3457489-4deb-4437-80a5-9cc1cee198d2.gif)
 
 ## 🌐 Socials:
-[![Instagram](https://images.getpng.net/uploads/preview/pack-brushstrokes-banner-with-social-media-icons6-1151638294917rlybbgu3rh.webp/)](https://www.instagram.com/oblivious.monkey/)
+[![Instagram](https://play-lh.googleusercontent.com/LM9vBt64KdRxLFRPMpNM6OvnGTGoUFSXYV-w-cGVeUxhgFWkCsfsPSJ5GYh7x9qKqw=s256-rw/)](https://www.instagram.com/oblivious.monkey/)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
