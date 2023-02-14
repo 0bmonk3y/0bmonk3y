@@ -12,7 +12,6 @@
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C%2B%2B%20-yellow)
-![JS] (https://img.shields.io/badge/-JS-yellow)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0bmonk3y&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
