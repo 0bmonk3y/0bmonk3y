@@ -1,7 +1,7 @@
 # Hello there 💫
 
 🔹 Working on the next level🔹
-🔹Learning C# Fundamentals in [SoftUni](https://softuni.bg/)
+🔹Learning C# / C++ / JavaScript in [SoftUni](https://softuni.bg/)
 🔹Fun fact: Every 3 seconds of delay between a flash to thunder, equates to a distance of 1 kilometre🔹
 
 ![sultan-alrefaei-programmer](https://user-images.githubusercontent.com/92588334/175947310-d3457489-4deb-4437-80a5-9cc1cee198d2.gif)
